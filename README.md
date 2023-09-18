@@ -8,7 +8,7 @@ bash scripts/install_third_party_dependencies.sh
 Replace the `mamba` with `conda` in the script if you do not use `mambaforge`.
 
 ## Checkpoints and Data
-We provide the checkpoints and data used in the paper in [Google Drive](https://drive.google.com/drive/folders/1Z3Z3Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2?usp=sharing). Please download the checkpoints and put them in the `checkpoints` folder. The md5sum of the checkpoints and data are listed in `scripts/md5sum.txt`.
+We provide the checkpoints and data used in the paper in [Google Drive](https://drive.google.com/drive/folders/1nns6Js4vIcS3QSHRJG8BaHAJlGy_iXdF?usp=sharing). Please download the checkpoints and put them in the `checkpoints` folder. The md5sum of the checkpoints and data are listed in `scripts/md5sum.txt`.
 
 If you want to train your own model, please modify the data path in `scripts/train.sh`.
 
