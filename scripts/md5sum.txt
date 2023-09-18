@@ -1,0 +1,2 @@
+4262bdbdc7d78c9ef11a8ceba7ed6190  epoch99-step49999-val_loss=3.581.ckpt
+149cf449b7cda1050a5b5ecf518c3237  cath.tar.gz
